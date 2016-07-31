@@ -6,7 +6,7 @@ namespace BuildBotTrial.Tests
     class CalculatorTests
     {
         Calculator calculator = new Calculator();
-        [TestCase]
+        [Test]
         public void AddingTwoNumbers()
         {
             calculator.FirstNumber = 20;

@@ -1,5 +1,4 @@
-﻿using BuildBotTrial;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using TechTalk.SpecFlow;
 
 namespace BuildBotTrial.Tests
