@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildBotTrial", "BuildBotTrial\BuildBotTrial.csproj", "{4CD18C53-7734-4E70-A748-CDFE1333DDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildBotTrial.Tests", "BuildBotTrial.Tests\BuildBotTrial.Tests.csproj", "{82EDF848-406F-4BF3-BE17-951EC4B81154}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CD18C53-7734-4E70-A748-CDFE1333DDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD18C53-7734-4E70-A748-CDFE1333DDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD18C53-7734-4E70-A748-CDFE1333DDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD18C53-7734-4E70-A748-CDFE1333DDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EDF848-406F-4BF3-BE17-951EC4B81154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EDF848-406F-4BF3-BE17-951EC4B81154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EDF848-406F-4BF3-BE17-951EC4B81154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EDF848-406F-4BF3-BE17-951EC4B81154}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

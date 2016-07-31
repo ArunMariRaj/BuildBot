@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4F9D4BB8-023F-4071-96AF-CE846EF1780D}</ProjectGuid>
+    <ProjectGuid>{4CD18C53-7734-4E70-A748-CDFE1333DDA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DummyCodeforBuildBotBuilds</RootNamespace>
-    <AssemblyName>DummyCodeforBuildBotBuilds</AssemblyName>
+    <RootNamespace>BuildBotTrial</RootNamespace>
+    <AssemblyName>BuildBotTrial</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
