@@ -1,3 +1,3 @@
 # BuildBot
 
-To Test Buildbot For VisualStudio Projects
+To Test Buildbot Builds for VisualStudio Projects
